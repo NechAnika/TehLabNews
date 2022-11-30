@@ -1,3 +1,12 @@
 .main-news__item{
     display: grid;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    grid-template-columns: repeat(3, 406px);
+    grid-template-rows: 33%;
+    column-gap: 30px;
+    row-gap: 30px;
   }
